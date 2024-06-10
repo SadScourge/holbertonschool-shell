@@ -1,1 +1,1 @@
-This is a script that give you your working directory when executed
+This repo contain all my scripts for holberton school
