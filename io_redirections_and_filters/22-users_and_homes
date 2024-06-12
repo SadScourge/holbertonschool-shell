@@ -1,3 +1,2 @@
 #!/bin/bash
 grep /home/ test | grep -vi :x: | sort
-
